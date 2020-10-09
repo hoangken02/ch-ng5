@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e741788-651e-4017-ad99-617cd16f78b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tao-giao-dien.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Survey-khach-hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/Survey-khach-hang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form-cơ-bản.html" beforeDir="false" afterPath="$PROJECT_DIR$/form-cơ-bản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form2/form-co-ban2.html" beforeDir="false" afterPath="$PROJECT_DIR$/form2/form-co-ban2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <workItem from="1601950024711" duration="7229000" />
       <workItem from="1602170321239" duration="3837000" />
       <workItem from="1602205245077" duration="13979000" />
-      <workItem from="1602232052432" duration="5028000" />
+      <workItem from="1602232052432" duration="6692000" />
     </task>
     <servers />
   </component>
@@ -66,10 +64,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602215879500">
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602237658855">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602215879500" />
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602237658855" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601973475042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
