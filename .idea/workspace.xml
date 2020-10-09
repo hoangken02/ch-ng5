@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e741788-651e-4017-ad99-617cd16f78b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey-khach-hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/Survey-khach-hang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <workItem from="1601950024711" duration="7229000" />
       <workItem from="1602170321239" duration="3837000" />
       <workItem from="1602205245077" duration="13979000" />
-      <workItem from="1602232052432" duration="1815000" />
+      <workItem from="1602232052432" duration="3250000" />
     </task>
     <servers />
   </component>
@@ -76,5 +77,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="597" y="175" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602213785509" />
+    <state x="577" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602234872222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="577" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602234872222" />
   </component>
 </project>
